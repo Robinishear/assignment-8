@@ -3,6 +3,7 @@ import { Outlet } from 'react-router';
 import Fooder from '../../Fooder/Fooder';
 import Navbar from '../../Navbar/Navbar';
 
+
 const Root = () => {
     return (
         <div>

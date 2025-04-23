@@ -1,9 +1,10 @@
 import React from 'react';
 import { NavLink } from 'react-router';
+// import Bb from "./bb.css"
 
 const navbea = () => {
     return (
-        <div className="navbar bg-base-100 shadow-sm">
+        <div className="navbar bg-base-100 shadow-sm max-w-7xl mx-auto ">
         <div className="navbar-start">
           <div className="dropdown">
             <div tabIndex={0} role="button" className="btn btn-ghost lg:hidden">
@@ -12,11 +13,18 @@ const navbea = () => {
             <ul
               tabIndex={0}
               className="menu menu-sm dropdown-content bg-base-100 rounded-box z-1 mt-3 w-52 p-2 shadow">
-              <li><a>Item 1</a></li>
               <li>
-                <a>Parent</a>
-              </li>
-              <li><a>Item 3</a></li>
+                <NavLink to="Home">Home</NavLink>
+                </li>
+            <li>
+                <NavLink to="/MyBookings">My-Bookings</NavLink>
+            </li>
+            <li>
+                <NavLink to="Proshno">Blogs</NavLink>
+                </li>
+            <li>
+                <NavLink to="ErrorPage">Contact Us</NavLink>
+                </li>
             </ul>
           </div>
         <div className='flex '>
@@ -26,17 +34,17 @@ const navbea = () => {
         </div>
         <div className="navbar-center hidden lg:flex">
           <ul className="menu menu-horizontal px-1">
-            <li>
+            <li className='Active'>
                 <NavLink to="Home">Home</NavLink>
-                </li>
-            <li>
-                <NavLink to="">My-Bookings</NavLink>
             </li>
             <li>
-                <NavLink to="">Blogs</NavLink>
+                <NavLink to="My-Bookings">My-Bookings</NavLink>
+            </li>
+            <li>
+                <NavLink to="Proshno">Blogs</NavLink>
                 </li>
             <li>
-                <NavLink to="">Contact Us</NavLink>
+                <NavLink to="ErrorPage">Contact Us</NavLink>
                 </li>
           </ul>
         </div>
@@ -48,3 +56,5 @@ const navbea = () => {
 };
 
 export default navbea;
+
+

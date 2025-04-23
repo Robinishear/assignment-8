@@ -8,12 +8,22 @@ const Fooder = () => {
         <img src="https://i.ibb.co.com/dsqrK5Zy/logo.png" className='w-8 h-8' />
         <a className="font-bold text-2xl">Law.BD</a>
         </div>
-  <nav className="grid grid-flow-col gap-4">
-    <Link className="link link-hover">Home</Link>
-    <Link className="link link-hover">My-Bookings</Link>
-    <Link className="link link-hover">Blogs</Link>
-    <Link className="link link-hover">Contact Us</Link>
-  </nav>
+   <div className="navbar-center hidden lg:flex">
+           <ul className="menu menu-horizontal px-1">
+             <li>
+                 <NavLink to="Home">Home</NavLink>
+                 </li>
+             <li>
+                 <NavLink to="lawyer-details">My-Bookings</NavLink>
+             </li>
+             <li>
+                 <NavLink to="Proshno">Blogs</NavLink>
+                 </li>
+             <li>
+                 <NavLink to="ErrorPage">Contact Us</NavLink>
+                 </li>
+           </ul>
+         </div>
   <nav>
     <div className="grid grid-flow-col gap-4">
       <NavLink to={''}>

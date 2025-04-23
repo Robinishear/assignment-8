@@ -14,16 +14,18 @@ const navbea = () => {
               tabIndex={0}
               className="menu menu-sm dropdown-content bg-base-100 rounded-box z-1 mt-3 w-52 p-2 shadow">
               <li>
-                <NavLink to="Home">Home</NavLink>
+                <NavLink to="/">Home</NavLink>
                 </li>
             <li>
-                <NavLink to="/MyBookings">My-Bookings</NavLink>
+                <NavLink
+                className={({ isActive }) => ( isActive ? 'text-shadow-blue-800 ': 'text-amber-100')} 
+                to="/MyBookings">My-Bookings</NavLink>
             </li>
             <li>
-                <NavLink to="Proshno">Blogs</NavLink>
+                <NavLink to="/Proshno">Blogs</NavLink>
                 </li>
             <li>
-                <NavLink to="ErrorPage">Contact Us</NavLink>
+                <NavLink to="/ErrorPage">Contact Us</NavLink>
                 </li>
             </ul>
           </div>
@@ -35,16 +37,16 @@ const navbea = () => {
         <div className="navbar-center hidden lg:flex">
           <ul className="menu menu-horizontal px-1">
             <li className='Active'>
-                <NavLink to="Home">Home</NavLink>
+                <NavLink to="/">Home</NavLink>
             </li>
             <li>
-                <NavLink to="My-Bookings">My-Bookings</NavLink>
+                <NavLink to="/My-Bookings">My-Bookings</NavLink>
             </li>
             <li>
-                <NavLink to="Proshno">Blogs</NavLink>
+                <NavLink to="/blogs">Blogs</NavLink>
                 </li>
             <li>
-                <NavLink to="ErrorPage">Contact Us</NavLink>
+                <NavLink to="/ErrorPage">Contact Us</NavLink>
                 </li>
           </ul>
         </div>

@@ -1,6 +1,7 @@
 import React from 'react';
+import CountUp from 'react-countup';
 
-const Books = () => {
+const Blogs = () => {
     return (
         <div className='mx-auto py-14'>
             <div>
@@ -15,7 +16,9 @@ const Books = () => {
                         </div>
                         {/* <hi> <CountUp start={20} end={15} duration={15}/
                         >+   */}
-                        <div className="stat-value ">199+</div>
+                        <div className="stat-value ">
+                            <CountUp end={199} duration={10}/> +
+                        </div>
                         {/* </hi> */}
                        
                         <div className="stat-desc">Total Lawyer</div>
@@ -26,7 +29,9 @@ const Books = () => {
                         <div className="flex justify-center">
                             <img src="https://i.ibb.co.com/1txMF54p/success-review.png" alt="" className="w-12 h-12" />
                         </div>
-                        <div className="stat-value">467+</div>
+                        <div className="stat-value">
+                        <CountUp end={467} duration={10}/>+
+                        </div>
                         <div className="stat-desc">Total Reviews</div>
                     </div>
                 </div>
@@ -35,7 +40,9 @@ const Books = () => {
                         <div className="flex justify-center">
                             <img src="https://i.ibb.co.com/bj9GcpXB/success-patients.png" alt="" className="w-12 h-12" />
                         </div>
-                        <div className="stat-value">190+</div>
+                        <div className="stat-value">
+                         <CountUp end={1900} duration={10}/>+
+                        </div>
                         <div className="stat-desc">Cases Initiated</div>
                     </div>
                 </div>
@@ -44,7 +51,9 @@ const Books = () => {
                         <div className="flex justify-center">
                             <img src="https://i.ibb.co.com/cn5WnRV/success-staffs.png" alt="" className="w-12 h-12" />
                         </div>
-                        <div className="stat-value">300+</div>
+                       <div className="stat-value">
+                        <CountUp end={300} duration={10}/>+
+                       </div>
                         <div className="stat-desc">Total Stuffs</div>
                     </div>
                 </div>
@@ -53,4 +62,4 @@ const Books = () => {
     );
 };
 
-export default Books;
+export default Blogs;

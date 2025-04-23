@@ -1,12 +1,8 @@
 import React from 'react';
-import Books from '../Books/Books';
-import { useLoaderData } from 'react-router';
+import Blogs from '../Books/Blogs';
 import Component from '../Component/Component';
 
 const Home = () => {
-  const data = useLoaderData();
-  console.log(data);
-  
 
     return (
           
@@ -31,9 +27,11 @@ const Home = () => {
   </div>
  
 </div>
-<Component/>
-<Books/>
+<Component></Component>
+<Blogs></Blogs>
 </div>
+
+
     );
 };
 

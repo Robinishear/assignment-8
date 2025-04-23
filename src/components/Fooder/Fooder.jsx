@@ -9,24 +9,22 @@ const Fooder = () => {
           <a className="font-bold text-2xl">Law.BD</a>
           </div>
     <div className="navbar-center hidden lg:flex">
-               <ul
-                           tabIndex={0}
-                           className="menu menu-sm dropdown-content bg-base-100 rounded-box z-1 mt-3 w-52 p-2 shadow">
+               <div className="navbar-center hidden lg:flex">
+                         <ul className="menu menu-horizontal px-1">
+                           <li className='Active'>
+                               <NavLink to="/">Home</NavLink>
+                           </li>
                            <li>
-                             <NavLink to="/">Home</NavLink>
-                             </li>
-                         <li>
-                             <NavLink
-                            //  className={({ isActive }) => ( isActive ? 'text-shadow-blue-800 ': 'text-amber-100')} 
-                             to="/MyBookings">My-Bookings</NavLink>
-                         </li>
-                         <li>
-                             <NavLink to="/Proshno">Blogs</NavLink>
-                             </li>
-                         <li>
-                             <NavLink to="/ErrorPage">Contact Us</NavLink>
-                             </li>
+                               <NavLink to="/My-Bookings">My-Bookings</NavLink>
+                           </li>
+                           <li>
+                               <NavLink to="/blogs">Blogs</NavLink>
+                               </li>
+                           <li>
+                               <NavLink to="/ErrorPage">Contact Us</NavLink>
+                               </li>
                          </ul>
+                       </div>
            </div>
     <nav>
       <div className="grid grid-flow-col gap-4">

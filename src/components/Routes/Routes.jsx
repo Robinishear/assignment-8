@@ -4,6 +4,8 @@ import Root from "../pages/Root/Root";
 import ErrorPage from "../pages/ErrorPage/ErrorPage";
 import Home from "../pages/Home/Home";
 import LawyerDetails from "../pages/LawyerDetails/LawyerDetails";
+import Proshno from "../pages/proshno/Proshno";
+
 
 export const router = createBrowserRouter([
   {
@@ -27,7 +29,7 @@ export const router = createBrowserRouter([
       ,
       {
         path: "/blogs",
-        element: <div>my  questions </div>
+        element: <Proshno/>
       }, 
       {
         path: '*',

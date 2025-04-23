@@ -18,7 +18,7 @@ const navbea = () => {
                 </li>
             <li>
                 <NavLink
-                className={({ isActive }) => ( isActive ? 'text-shadow-blue-800 ': 'text-amber-100')} 
+  
                 to="/MyBookings">My-Bookings</NavLink>
             </li>
             <li>
@@ -34,19 +34,27 @@ const navbea = () => {
         <a className="font-bold text-2xl">Law.BD</a>
         </div>
         </div>
-        <div className="navbar-center hidden lg:flex">
-          <ul className="menu menu-horizontal px-1">
-            <li className='Active'>
-                <NavLink to="/">Home</NavLink>
+        <div className="navbar-center hidden lg:flex text-emerald-500">
+          <ul className="menu menu-horizontal px-1 font-bold">
+            <li className=' text-shadow-white'>
+                <NavLink
+                   className={({ isActive }) => ( isActive ? 'bg-blue-700 ': '' )} 
+                    to="/">Home</NavLink>
             </li>
             <li>
-                <NavLink to="/My-Bookings">My-Bookings</NavLink>
+                <NavLink 
+                   className={({ isActive }) => ( isActive ? 'bg-blue-700 ': '' )} 
+                to="/My-Bookings">My-Bookings</NavLink>
             </li>
             <li>
-                <NavLink to="/blogs">Blogs</NavLink>
+                <NavLink 
+                   className={({ isActive }) => ( isActive ? 'bg-blue-700 ': '' )} 
+                    to="/blogs">Blogs</NavLink>
                 </li>
             <li>
-                <NavLink to="/ErrorPage">Contact Us</NavLink>
+                <NavLink 
+                   className={({ isActive }) => ( isActive ? 'bg-blue-700 ': '' )} 
+                    to="/ErrorPage">Contact Us</NavLink>
                 </li>
           </ul>
         </div>

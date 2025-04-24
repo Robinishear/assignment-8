@@ -5,6 +5,7 @@ import ErrorPage from "../pages/ErrorPage/ErrorPage";
 import Home from "../pages/Home/Home";
 import LawyerDetails from "../pages/LawyerDetails/LawyerDetails";
 import Proshno from "../pages/proshno/Proshno";
+import Pahar from "../pages/Pahar/Pahar";
 
 
 export const router = createBrowserRouter([
@@ -24,7 +25,7 @@ export const router = createBrowserRouter([
       },
       {
         path: "/My-Bookings",
-        element: <div>my bookings </div>
+        element: <Pahar/>
       }
       ,
       {

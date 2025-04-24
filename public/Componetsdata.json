@@ -3,7 +3,7 @@
     "image": "https://i.ibb.co.com/WWR8cCjY/images-6.jpg",
     "name": "Isabella Jones",
     "education": [
-      { "degree": "JD", "institution": "Cornell Law School", "year": 2013 },
+      { "degree": "JD Cornell Law School", "institution": "Cornell Law School", "year": 2013 },
       { "degree": "BA in Sociology", "institution": "Princeton University", "year": 2009 }
     ],
     "specialty": "Immigration Law",

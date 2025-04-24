@@ -29,17 +29,17 @@ const handleAppointment =()=> {
       <div className="flex">
                             <img
                                 className="w-24 h-24 object-cover rounded-2xl mx-10 my-10"
-                                // src="image"
-                                // src="image"
+                                 src={singleLawyer?.image}
+                                 
                             />
                             <div className="p-4 flex flex-col justify-between">
                                 <div>
                                     <div className="flex flex-wrap gap-2 mb-2">
                                         <span className="bg-green-100 text-green-700 text-xs font-medium px-3 py-1 rounded-full">
-                                            
+                                          {singleLawyer?.name}      
                                         </span>
                                         <span className="bg-blue-100 text-blue-700 text-xs font-medium px-3 py-1 rounded-full">
-                                           
+                                           {singleLawyer?.specialty}
                                         </span>
                                     </div>
 
@@ -47,12 +47,14 @@ const handleAppointment =()=> {
 
                                     {/* Education (first line only) */}
                                     <p className="text-sm text-gray-600 mb-2">
-                                       
+                                       {singleLawyer?.name}
                                     </p>
 
                                     <div className="flex items-center gap-2 text-sm text-gray-500">
-                                        <span className="text-xl">tgyh</span>
-                                        <span>jj</span>
+                                        <span className="text-xl"> {singleLawyer.education[0].degree}</span>
+                                        <span>
+                                          {singleLawyer.registration_number}
+                                        </span>
                                     </div>
                                 </div>
 

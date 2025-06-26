@@ -38,7 +38,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=robinishear&show_icons=true&locale=en" alt="robinishear" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=robinishear&" alt="robinishear" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=robinishear&" alt="robinishear" /></p> 
 
 
 
@@ -242,4 +242,67 @@
 ---
 
 <p align="center">💡 “Stay focused. Stay consistent. You are building your empire.” 🏰</p>
+
+
+<h1 align="center">🌟 RN Robin Vai</h1>
+<h3 align="center">🚀 Full-Stack Developer | MERN Stack Enthusiast | 🇧🇩 Bangladesh</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00FFEA&center=true&width=435&lines=Self-taught+Developer;Clean+Code+Lover;Future+Millionaire💸" alt="Typing SVG" />
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+- 🔭 I’m currently working on: **Recipe Book App**, **Historical Artifact Tracker**, and **Lawyer Finder SPA**
+- 🌱 Exploring: **JWT Auth**, **MongoDB Aggregation**, **Clean Architecture**
+- 💬 Ask me about: `React`, `Node.js`, `MongoDB`, `Express.js`
+- 🎯 Goal: Be a successful full-stack developer & guide future devs
+- ⚡ Fun Fact: I started coding on a broken keyboard ☕⌨️
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,firebase,tailwind,github,vscode" />
+</div>
+
+---
+
+## 🚀 Projects Showcase
+
+| Project | Description | Tech Stack | Live Link |
+|--------|-------------|------------|-----------|
+| 🍲 Recipe Book App | Full-stack app with filtering, likes, auth | React, Node, MongoDB, JWT | [Live](https://recipebook.web.app) |
+| ⚖️ Lawyer Finder | SPA to find and view lawyers | React, Router DOM, JSON | [Live](https://lawyerfinder.web.app) |
+| 🗿 Artifacts Tracker | CRUD historical app with Firebase Auth | MERN, Firebase | [Live](https://artifactstracker.web.app) |
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RN_RObiN_vAI&show_icons=true&theme=tokyonight" width="47%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=RN_RObiN_vAI&theme=tokyonight" width="47%" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RN_RObiN_vAI&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🌐 Let’s Connect
+
+<p align="center">
+  <a href="mailto:mdrobinahmed57898@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/yourname"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=react&logoColor=white" /></a>
+</p>
+
+---
+
+<p align="center">💖 “Elegance in code is beauty in motion.” – RN Robin Vai ✨</p>
+
 

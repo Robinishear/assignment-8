@@ -95,3 +95,44 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=robinishear&" alt="robinishear" /></p>
 
+
+
+
+
+
+<h1 align="center">Hi 👋, I'm RN Robin</h1>
+
+<p align="center">
+  🔭 I’m currently working on full-stack projects <br/>
+  🌱 I’m learning MongoDB, JWT, and clean architecture <br/>
+  👯 I’m looking to collaborate on MERN stack apps <br/>
+  💬 Ask me about JavaScript, React, and Node <br/>
+  📫 How to reach me: rnrobin@email.com <br/>
+</p>
+
+---
+
+## 🛠️ Languages & Tools
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+
+---
+
+## 📊 GitHub Stats:
+![RN_RObiN_vAI's GitHub stats](https://github-readme-stats.vercel.app/api?username=RN_RObiN_vAI&show_icons=true&theme=radical)
+
+---
+
+## 🚀 Projects
+- [🍲 Recipe Book App](https://recipebook.web.app) – Full stack food app
+- [⚖️ Lawyer Finder](https://lawyersite.web.app) – Dynamic lawyer listing SPA
+
+---
+
+## 🌐 Let's Connect!
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/your-profile)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=react)](https://yourportfolio.com)
+
+

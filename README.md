@@ -148,3 +148,35 @@
 </p>
 
 
+<!-- Minimalist Style Header -->
+<h1 align="center">🌟 RN Robin</h1>
+<p align="center">🚀 Full-Stack Developer | 🇧🇩 Bangladesh | 💡 Dreamer & Doer</p>
+
+<p align="center">
+  <a href="https://yourportfolio.com">Portfolio</a> • 
+  <a href="mailto:rnrobin@email.com">Email</a> • 
+  <a href="https://linkedin.com/in/yourname">LinkedIn</a> • 
+  <a href="https://github.com/RN_RObiN_vAI">GitHub</a>
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+- 🌱 Currently learning: Clean Architecture, MongoDB Aggregation, Testing
+- 🎯 Goal: Build scalable full-stack apps & become a respected open-source contributor
+- 🧠 Strengths: Focus, Self-discipline, and Fast learning
+- ⚡ Fun Fact: I can code for 8 hours straight with tea & chill lofi music 🎧
+
+---
+
+## 🛠️ Tech Stack
+
+```bash
+💻 Languages:        JavaScript, HTML, CSS
+⚙️ Frameworks:       React, Node.js, Express.js
+🛢️ Databases:        MongoDB, Firebase
+🔧 Tools:            VS Code, Git, GitHub, Vercel
+🎨 Styling:          Tailwind CSS, DaisyUI
+
+

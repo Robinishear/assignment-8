@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm ✦ 𝑅𝒩 𝑅𝑜𝒷𝒾𝓃 𝒱𝒶𝒾 ✦</h1>
 <h3 align="center">✦ A Passionate Full-Stack Developer from Bangladesh ✦</h3>
 
-<p align="center">
+<p align="center"> 
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00FFEA&center=true&width=435&lines=Self-taught+Developer;MERN+Stack+Enthusiast;Future+Millionaire💸" alt="Typing SVG" />
 </p>
 

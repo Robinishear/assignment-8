@@ -180,3 +180,66 @@
 🎨 Styling:          Tailwind CSS, DaisyUI
 
 
+<!-- Header -->
+<h1 align="center">Hey 👋, I'm RN Robin</h1>
+<h3 align="center">Full-Stack Web Developer | MERN Lover | Bangladesh 🇧🇩</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00FFEA&center=true&width=435&lines=Self-taught+Web+Developer;React+%7C+Node.js+%7C+MongoDB;I+Love+Clean+Code+%26+Problem+Solving" alt="Typing SVG" />
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+- 🔭 I’m currently working on: **Recipe Book App** & **Historical Artifact Tracker**
+- 🌱 Exploring: **JWT Auth**, **Clean Backend Structure**, **MongoDB Aggregation**
+- 💬 Ask me about: `React`, `Node.js`, `Express`, `MongoDB`
+- 👨‍🎓 Goal: Be a top full-stack developer & tech entrepreneur
+- ⚡ Fun Fact: I type faster than I think 🤯
+
+---
+
+## 🧰 Tech Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,firebase,tailwind,github,vscode" />
+</div>
+
+---
+
+## 🚀 Projects Showcase
+
+| Project Name | Description | Tech Stack | Live |
+|--------------|-------------|------------|------|
+| 🍲 Recipe Book App | Full-stack recipe manager app with JWT auth, like, filter | React, Node.js, MongoDB | [🔗 Demo](https://recipebook.web.app) |
+| ⚖️ Lawyer Finder | SPA with React Router to find lawyer profiles | React, JSON, Router DOM | [🔗 Demo](https://lawyerfinder.web.app) |
+| 🗿 Artifacts Tracker | CRUD app for tracking historical artifacts with login | MERN, Firebase | [🔗 Demo](https://artifactstracker.web.app) |
+
+---
+
+## 📈 GitHub Stats & Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RN_RObiN_vAI&show_icons=true&theme=midnight-purple&count_private=true" height="170px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=RN_RObiN_vAI&theme=midnight-purple" height="170px"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RN_RObiN_vAI&layout=compact&theme=midnight-purple" />
+</p>
+
+---
+
+## 📫 Let’s Connect
+
+<p align="center">
+  <a href="mailto:rnrobin@email.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/yourname"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=react&logoColor=white" /></a>
+</p>
+
+---
+
+<p align="center">💡 “Stay focused. Stay consistent. You are building your empire.” 🏰</p>
+
